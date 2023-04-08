@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="label_array">
+        <item>Hi~</item>
+        <item>My</item>
+        <item>name</item>
+        <item>is</item>
+        <item>son</item>
+    </string-array>
+</resources>
